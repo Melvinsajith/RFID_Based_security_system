@@ -37,3 +37,6 @@ Arduino code to read RFID , send data to Raspberry pi using serial  communicatio
  serial communication with arduino and take photo using opencv python with  camera and save the data to folder and send the information and photo to phone  using API  
 3 Telegram API  
  Telegram API is used to send the data from python to phone using a telegram  bot 
+
+ ![RFID Sensor](https://github.com/Melvinsajith/RFID_Based_security_system/assets/75600365/b6b22533-862f-4977-b16f-96edf7facf6d)
+
