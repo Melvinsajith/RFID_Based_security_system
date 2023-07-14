@@ -1,5 +1,21 @@
 # RFID_Based_security_system
+
 RFID Based security system
+
+The IoT Based Smart Door Lock Security System is a modern security solution that uses the 
+power of the Internet of Things (IoT) to protect homes and buildings from unauthorized access. 
+This system is designed to provide a high level of security and convenience to homeowners by 
+allowing them to control the access to their properties remotely.
+The system consists of a smart lock that is connected to the internet and controlled by a mobile 
+app. The app allows homeowners to lock and unlock the door from anywhere in the world, as 
+long as they have an internet connection. The lock also has advanced features such as voice 
+recognition, facial recognition, and fingerprint recognition, which enhance the security of the 
+system.
+The IoT Based Smart Door Lock Security System is also designed to be highly customizable, 
+allowing homeowners to set specific access permissions for different users. For example, a 
+homeowner can grant temporary access to a contractor or delivery person, and then revoke that 
+access when it is no longer needed.
+
 
 # HARDWARE 
 
