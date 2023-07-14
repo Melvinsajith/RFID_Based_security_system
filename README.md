@@ -16,6 +16,7 @@ allowing homeowners to set specific access permissions for different users. For 
 homeowner can grant temporary access to a contractor or delivery person, and then revoke that 
 access when it is no longer needed.
 
+![image](https://github.com/Melvinsajith/RFID_Based_security_system/assets/75600365/caed1b5e-f44b-403d-8f4c-7c24d01b96ca)
 
 # HARDWARE 
 
