@@ -1,6 +1,6 @@
-# RFID_Based_security_system
+# Iot_Based_security_system
 
-RFID Based security system
+Iot Based security system
 
 The IoT Based Smart Door Lock Security System is a modern security solution that uses the 
 power of the Internet of Things (IoT) to protect homes and buildings from unauthorized access. 
